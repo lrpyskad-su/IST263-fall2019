@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+    <title>Lexah Pyskadlo's Resume</title>
+</head>
+
+<body>
+    <main>
+        <h1>LEXAH PYSKADLO</h1>
+            <p>10 White Church Rd., Troy, NY 12180
+            518.892.6622 lrpyskad@syr.edu www.linkedin.com/in/lexahpyskadlo</p>
+        
+    </main>    
+        <h2>EXPERIENCE</h2>
+            <h3>Marketing Intern, Essere Atelier</h3>                                                                                         
+                <h4>May 2019 - July 2019 </h4>
+                    <ul>
+                        <li>Manage social media accounts</li>
+                        <li>Generate and edit content</li>
+                        <li>Grow brand presence online
+                        <li>Organize publicity events</li>
+                    </ul>
+            <h3>Football Recruiting Intern, Syracuse University</h3>                                                             
+                <h4>October 2018 - Present</h4>
+                    <ul>
+                        <li>Prepare hotel rooms for recruits visiting Syracuse University</li>
+                        <li>Give tours of the football wing of Manley Field House</li>
+                        <li>Talk to families about my experience at Syracuse</li>
+                        <li>Write invitations and thank you cards to prospective families</li>
+                    </ul>
+            <h3>Student Caller, The Fund for Syracuse</h3>
+                <h4>January 2019 - May 2019</h4>
+                    <ul>
+                        <li>Reach out to alumni and parents of current students to ask for gifts for the school</li>
+                    </ul>
+            <h3>Production Management Assistant, FOX Sports</h3>                                                                                
+                <h4>June 2018</h4>
+                    <ul>
+                        <li>Assisted in the Operations Department of Broadcast during the 2018 US Open at Shinnecock Hills Golf Club</li>
+                        Worked with Managers to assure the production ran smoothly</li>
+                        Aided Announcers in the Booth and Studio during production of the US Open</li>
+                    </ul>
+            <h3>Customer Service & Shift Manager, Lickety Split Ice Cream</h3>
+                <h4>Seasonal March 2016 - August 2019</h4>
+                    <ul>
+                        <li>Customer service and Head Closer</li>
+                    </ul>
+
+
+        <h2>EDUCATION</h2>
+            <h3>SYRACUSE UNIVERSITY</h3>
+                <h4>S.I. Newhouse School of Publications; School of Information Studies</h4>
+                    <p>Bachelor of Science, May 2021
+                    Major: Advertising, Information Management & Technology 
+                    Concentration: Digital Media </p>
+
+
+        <h2>SKILLS</h2>
+            <h3>Relevant Coursework:</h3>
+                <ul>
+                    <li>* Python, Business Data Networks and Security, Advertising Practice, Statistics, Computer Networking, Social Media in the Organization, conversational Spanish</li>
+                    <li>* Microsoft Excel, PowerPoint, Word, Visio; Adobe InDesign, Photoshop, Premiere; iMovie</li>
+                    <li>* Twitter, Facebook, Instagram, YouTube</li>
+                    <li>* Ability to work and communicate with others in a group. </li>
+                    <li>* Analytical skills including ability to use data to inform decisions and make predictions.</li>
+                </ul>
+
+        <h2>ACTIVITIES</h2>
+            <ul>
+                <li>Syracuse University School of Information Studies Peer Advisor</li>
+                <li>Syracuse University Women's Club Volleyball Team: Website Designer and Transportation Manager</li>
+                <li>Delta Gamma Fraternity</li>
+</body>
+
