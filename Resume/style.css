@@ -1,0 +1,51 @@
+body{
+    background-image: url("marble1.jpg")
+}
+
+
+h1{
+    background-color:slateblue;
+    color:white;
+    font-family: "Franklin Gothic", heavy, sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    text-shadow: 3px 1px gray;
+    font-size: 60px
+}
+
+d1{
+    text-align: center;
+    font-family: "Franklin Gothic", Medium;
+    font-size: 19px 
+}
+
+h2{
+    color:white;
+    background-color: gray;
+    text-shadow: 3px 1px slateblue;
+    font-family: "Franklin Gothic", Demi, sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 35px
+}
+
+h3{
+    font-family: "Franklin Gothic", Demi, sans-serif;
+    text-align: center;
+    font-size: 28px
+}
+
+h4{
+    font-family: "Franklin Gothic", Medium, sans-serif;
+    text-align: center;
+    font-size: 22px
+}
+
+
+footer{
+    text-align: center;
+    font-family: "Franklin Gothic", Cond Medium;
+    font-size: 15px;
+    background-color:slateblue;
+    color:white
+}
