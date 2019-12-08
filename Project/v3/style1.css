@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    background-color: rgba(186,85,211,.6);
+}
+
+h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 120px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    padding: 14px 25px;
+    letter-spacing: 3px;
+}
+
+nav {
+    background-color: #333;
+    margin: 0;
+    overflow: hidden;
+    text-align: left;
+}
+
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    color: white;
+    background-color:#333;
+    display: block;
+    line-height: 1em;
+    padding: 1em .5em;
+    text-decoration: none;
+    font-family: "Arial", Arial, sans-serif;
+    font-size: 14px;
+}
+/*
+nav .search-container {
+    float: right;
+}
+*/
+
+/*
+nav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+*/
+nav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background-color: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .centered {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 120px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    width: 1000px;
+  }
+
+  h2 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    color: black;
+  }
+
+  p {
+    font-family: "Arial", Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+  }
+
+  footer {
+    font-family: "Arial", Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .row {
+      display: flex;
+  }
+
+  .column {
+      flex: 50%
+  }
+  
+  h3 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    letter-spacing: 3px;
+    font-weight: bold;
+  }
+
+  li {
+    font-family: "Arial", Arial, sans-serif;
+    font-size: 18px;
+    text-align: left; 
+  }
+
+  /* add space between each picture */
+  .flex-container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+
+  }
+
+  .flex-container2 {
+      display:flex;
+      flex-direction: row;
+      justify-content: center;
+  }
+
+  .centered1 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+  }
+
+  article {
+      text-align: center;
+      font-family: "Arial Black", Gadget, sans-serif;
+      color: black;
+      font-size:30px;
+  }
+/*WHY WONT THIS SHOW UP */
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+
+.topic {
+    padding-left: 200px;
+    padding-top: 105px;
+    padding-bottom: 75px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+  }
+
+  a.landing-link{
+      text-align: center;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      border-style: solid;
+      border-color: white;
+
+  }
+
+a.link{
+  color: black;
+  text-decoration: none;
+
+}
+
+  .search{
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+
+.stingray-video{
+  margin: 0 auto;
+  border: 10px outset white;
+  width: 100%;
+}
+
